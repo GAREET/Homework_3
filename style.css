@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(216, 228, 228);
+
+}
+
+hr {
+    width: 800px;
+    margin: 0 auto;
+    border: 2px solid rgb(21, 12, 143);
+}
+
+header {
+    width: 800px;
+    text-align: center;
+    border: 1px solid black;
+    margin: 10px auto;
+    padding: 5px;
+}
+
+.avatar {
+    width: 300px;
+}
+
+section,
+footer {
+    width: 800px;
+    border: 1px solid rgb(21, 12, 143);
+    padding: 10px;
+    margin: 5px auto;
+}
