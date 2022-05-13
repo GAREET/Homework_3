@@ -2,5 +2,5 @@
 Page about me
 
 
+<link rel="stylesheet" href="https://gareet.github.io/my-cv-page/" target="_blank">
 
-<a href="https://gareet.github.io/my-cv-page/" target="_blank">
