@@ -2,5 +2,5 @@
 Page about me
 
 
-https://gareet.github.io/Home-Work-3/
+https://gareet.github.io/Homework_3/
 
